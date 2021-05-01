@@ -1,7 +1,8 @@
 {
   "domain": "dmx",
   "name": "DMX Light",
-  "documentation": "https://github.com/jnimmo/hass-dmx/",
+  "version": "1.0",
+  "documentation": "https://github.com/corb3000/hass-dmx/",
   "dependencies": [],
   "codeowners": [],
   "requirements": []
